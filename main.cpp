@@ -9,7 +9,7 @@
 #include "EM.h"
 int main(){
 	srand(time(NULL));
-	EM("/home/potato/Pictures/Lenna.png",5).execute();
+	EM("Lenna.png",2).execute();
 
 
 }
